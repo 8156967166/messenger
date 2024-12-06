@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCIZrkmEz7Vyezf9QQ2obWH2AO5c6MTQPE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1076865548331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fortunesoft.Messenger</string>
+	<key>PROJECT_ID</key>
+	<string>messenger-6beba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messenger-6beba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1076865548331:ios:a780f69f0f751e7f0a2a6e</string>
+</dict>
+</plist>
